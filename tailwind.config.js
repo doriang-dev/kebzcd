@@ -1,10 +1,10 @@
 module.exports = {
-  purge: [],
+  purge: false,
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
-      title: ['Lato'],
-      body: ['Playfair Display']
+      body: ['Lato'],
+      title: ['Playfair Display']
     }
   },
   variants: {
